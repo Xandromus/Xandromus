@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>I'm Xander, a developer from <b>Austin, Texas</b> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/238/flag-for-texas-ustx_1f3f4-e0075-e0073-e0074-e0078-e007f.png" height="16"/>.</p>
+
+<p><b>Here's what I've been up to:</b></p>
+
 <!--
 **Xandromus/Xandromus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
